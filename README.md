@@ -1,3 +1,9 @@
+can customise your req in constitution.md
+
+
+
+
+
 <div align="center">
     <img src="./media/logo_large.webp" alt="Spec Kit Logo" width="200" height="200"/>
     <h1>🌱 Spec Kit</h1>
