@@ -1,5 +1,5 @@
-can customise your req in constitution.md
-
+to customise req: constitution.md
+to customise prompts: speckit.specify.agent.md
 
 
 
