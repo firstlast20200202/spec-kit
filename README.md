@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=61K-2VRaC6s&list=PL4cUxeGkcC9h9RbDpG8ZModUzwy45tLjb
+
+
 to customise req: constitution.md
 
 to customise prompts: speckit.specify.agent.md
